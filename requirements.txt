@@ -1,0 +1,7 @@
+insightface==2.1
+ipython==8.12.3
+matplotlib==3.11.2
+numpy==2.5.5
+onnxruntime==1.32.0
+opencv_python==5.1.0.95
+Pillow==13.0.0
